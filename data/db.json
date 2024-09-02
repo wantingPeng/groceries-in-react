@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "ghhhh"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "bggfbfgb"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "bfbzdvdvrgrgs"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "bfgbtgsvderg"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "sdvdsvdfv"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "item": "bggfbgb vbg g"
+    },
+    {
+      "id": "7",
+      "checked": true,
+      "item": "vvvvvvv"
+    }
+  ]
+}
